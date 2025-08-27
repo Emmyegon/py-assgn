@@ -1,0 +1,2 @@
+you can also use try except for error handling
+you can also use with statement to open and close files automatically
